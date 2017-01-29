@@ -20,7 +20,7 @@ Wiring
 
 Preview
 --------------------
-<iframe src="https://www.youtube.com/embed/F7brePK7bYE?controls=1" width="80%" height="300" allowfullscreen=""></iframe>
+https://www.youtube.com/watch?v=F7brePK7bYE
 
 Changelog
 -------------------
@@ -28,7 +28,7 @@ Changelog
 
 More Info:
 -----------
-* Blog article: http://lemariva.com/blog/2017/01/wipy-2-0-weather-report
+* Blog article: http://lemariva.com/blog/2017/01/wipy-2-0-weather-report-box
 
 Credits
 --------------------
