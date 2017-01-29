@@ -1,0 +1,6 @@
+[submodule "wipy2.0-ST7735"]
+	path = wipy2.0-ST7735
+	url = https://github.com/lemariva/wipy2.0-ST7735
+[submodule "wipy2.0-GPS"]
+	path = wipy2.0-GPS
+	url = https://github.com/lemariva/wipy2.0-GPS
