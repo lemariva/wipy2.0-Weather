@@ -1,6 +1,14 @@
 Weather report box - WiPy 2.0, Ublox NEO-6M, ST7735 Display
 ------------------------------------------------
-This project is about connecting a Wipy 2.0 with and Ublox NEO-6M GPS and a ST7735 display. The Wipy 2.0 gets the GPS coordinates, makes a get request to obtain weather information and displays this info on the LCD.
+This project is about connecting a Wipy 2.0 with an Ublox NEO-6M GPS and a ST7735 display. The Wipy 2.0 gets the GPS coordinates, makes a get request to obtain weather information (using the Open Weather Map API) and displays this info on the LCD.
+
+Hardware
+----------------
+* Wipy 2.0
+* Ublox NEO-6M (it should work with the NEO-M8N too)
+* ST7735 display
+
+Check the blog article for more information:  http://lemariva.com/blog/2017/01/wipy-2-0-weather-report-box
 
 Wiring 
 ---------------
