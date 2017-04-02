@@ -5,7 +5,7 @@ This project is about connecting a Wipy 2.0 with an Ublox NEO-6M GPS and a ST773
 Hardware
 ----------------
 * Wipy 2.0
-* Ublox NEO-6M (it should work with the NEO-M8N too)
+* Ublox NEO-6M or NEO-M8N
 * ST7735 display
 
 Check the blog article for more information:  http://lemariva.com/blog/2017/01/wipy-2-0-weather-report-box
