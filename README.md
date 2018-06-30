@@ -28,7 +28,7 @@ Wiring
 
 Preview
 --------------------
--https://www.youtube.com/watch?v=F7brePK7bYE
+[![wipy2.0-Weather](https://img.youtube.com/vi/F7brePK7bYE/0.jpg)](https://www.youtube.com/watch?v=F7brePK7bYE)
 
 Changelog
 -------------------
