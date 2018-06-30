@@ -28,7 +28,11 @@ Wiring
 
 Preview
 --------------------
-https://www.youtube.com/watch?v=F7brePK7bYE
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/F7brePK7bYE">
+    </iframe>
+</div>
 
 Changelog
 -------------------
